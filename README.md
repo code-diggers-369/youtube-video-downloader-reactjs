@@ -3,4 +3,4 @@ youtube video downloader in react js. with server side scripting use api ytdl. u
 
 #Youtube Video Downloader
 
-![GitHub Logo](/you-tube-downloader.jpg)
+![GitHub Logo](/youdownload.jpg)
